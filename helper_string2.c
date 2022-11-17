@@ -1,6 +1,7 @@
 #include "shell.h"
 
-/*this file includes
+/*
+ *this file includes
  * _strcmp
  * _strchr_r
  * _atoi

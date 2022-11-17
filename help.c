@@ -44,8 +44,8 @@ int _help(char **args, char ***enva, node_t **pathl, node_t **histl)
 		 _history}, {NULL, NULL, NULL}
 	};
 	int i, j;
-	(void) enva; (void) pathl; (void) histl;
-
+	(void) enva;
+	(void) pathl, (void) histl;
 	if (!args || !*args || !args[0])
 		return (101);
 	i = 0;

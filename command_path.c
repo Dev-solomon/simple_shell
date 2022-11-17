@@ -1,6 +1,7 @@
 #include "shell.h"
 
-/* in this file, the function to get the executable from the name
+/*
+ * in this file, the function to get the executable from the name
  * given in the command line
  */
 
